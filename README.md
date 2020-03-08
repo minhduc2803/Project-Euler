@@ -1,2 +1,3 @@
 # Project-Euler
-Brave me is solving problems from https://projecteuler.net/ by coding on hackerrank.com
+My solution programs for some problems from https://projecteuler.net/
+All of my code have passed the compete test "Project Euler" on hackerrank.com
